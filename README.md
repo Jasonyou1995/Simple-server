@@ -1,7 +1,8 @@
 # Simple-server
-###Author: Jason You
 
-##Description:
+### Author: Jason You
+
+## Description:
 
 This is a simple HTTP server that supports the following concurrency handling strategy, and is built with C/C++:
 
